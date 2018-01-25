@@ -1,4 +1,5 @@
-(ns fizzbuzz.core)
+(ns fizzbuzz.core
+  (:gen-class))
 
 (defn fizzbuzz [n]
   (cond
