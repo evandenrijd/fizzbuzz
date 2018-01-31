@@ -1,6 +1,6 @@
 (defproject fizzbuzz "0.1.0-SNAPSHOT"
   :description "fizzbuzz kata"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/evandenrijd/fizzbuzz"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :main fizzbuzz.core
